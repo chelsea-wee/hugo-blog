@@ -1,0 +1,14 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "SRE Documentations"
+theme = "techdoc"
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "SRE"
+    description = "Description here"
+    dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+    post = "/my-first-post/"
