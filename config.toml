@@ -7,7 +7,7 @@ theme = "techdoc"
     mainSections = ["post"]
     intro = true
     headline = "SRE"
-    description = "Description here"
+    description = "Testing site"
     dateFormat = "Mon, Jan 2, 2006"
 
 [Permalinks]
