@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "chelsea-wee.github.io"
 languageCode = "en-us"
 title = "SRE Documentations"
 theme = "techdoc"
