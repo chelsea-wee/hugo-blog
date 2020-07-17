@@ -1,4 +1,4 @@
-baseURL = "chelsea-wee.github.io"
+baseURL = "chelsea-wee.github.io/hugo-blog"
 languageCode = "en-us"
 title = "SRE Documentations"
 theme = "techdoc"
